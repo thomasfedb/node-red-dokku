@@ -1,6 +1,6 @@
 # Node-RED Dokku
 
-This repository can be deployed to a Dokku instance.
+A dead simple Node-RED deployment for your friendly local Dokku PaaS.
 
 ## Quick Start
 
